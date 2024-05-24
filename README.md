@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juna</h1>
 <h3 align="center">A passionate web developer from Philippines</h3>
 
-- 🔭 I’m currently working on **Outsoar**
+- 🔭 I’m currently intern on **Outsoar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
