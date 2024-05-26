@@ -1,8 +1,8 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/junaballesteros/junaballesteros/blob/main/juna_cover.svg"></div>
 
-<a align="center" href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Juna+Ballesteros+here!;Information+Technology+Graduate;Interned+at+Outsoar+PH;Love+Web+and+Mobile+Dev;Striving+to+become+a+programming+expert;Currently+at+the+early+stages%2C+but+not+a+beginner.;Btw%2C+I'm+a+Cat+Lover+%3A3" alt="Typing SVG" /></a>
+<p align="center" href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Juna+Ballesteros+here!;Information+Technology+Graduate;Interned+at+Outsoar+PH;Love+Web+and+Mobile+Dev;Striving+to+become+a+programming+expert;Currently+at+the+early+stages%2C+but+not+a+beginner.;Btw%2C+I'm+a+Cat+Lover+%3A3" alt="Typing SVG" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
