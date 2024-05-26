@@ -2,8 +2,11 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/junaballesteros/junaballesteros/blob/main/juna_cover.svg"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Juna+Ballesteros+here;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;" alt="Information Technology Graduate, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Juna+Ballesteros+here;She/her;Information+Technology+Graduate;Interned+at+Outsoar+PH+as+a+web+developer;Handled+various+projects;Skilled+in+HTML,+CSS,+JavaScript;Passionate+about+web+and+mobile+development;Cat+Lover+:3;" alt="Information Technology Graduate, Cat lover">
+    </a>
 </div>
+
 
 - 🔭 I’m currently intern on **Outsoar**
 
