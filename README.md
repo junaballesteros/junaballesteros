@@ -2,9 +2,8 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/junaballesteros/junaballesteros/blob/main/juna_cover.svg"></div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Juna+Ballesteros+here;IT+Graduate;Interned+at+Outsoar+PH;Web+Developer;Handled+projects;Love+web+and+mobile+dev;Cat+Lover+%3A3;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
