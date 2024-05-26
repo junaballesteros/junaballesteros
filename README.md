@@ -2,7 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/junaballesteros/junaballesteros/blob/main/juna_cover.svg"></div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Juna+Ballesteros+here;IT+Graduate;Interned+at+Outsoar+PH;Web+Developer;Handled+projects;Love+web+and+mobile+dev;Cat+Lover+%3A3;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="[https://readme-typing-svg.demolab.com?lines=Juna+Ballesteros+here;IT+Graduate;Interned+at+Outsoar+PH;Web+Developer;Handled+projects;Love+web+and+mobile+dev;Cat+Lover+%3A3;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Juna+Ballesteros+here!;Information+Technology+Graduate;Interned+at+Outsoar+PH;Love+Web+and+Mobile+Dev;Striving+to+become+a+programming+expert;Currently+at+the+early+stages%2C+but+not+a+beginner.;Btw%2C+I'm+a+Cat+Lover+%3A3)](https://git.io/typing-svg" alt="Example Usage - README Typing SVG">
 </p>
 
 <h3 align="left">Connect with me:</h3>
