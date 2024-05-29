@@ -11,8 +11,8 @@
 </p>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://linkedin.com/in/carol42">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+<a href="https://www.linkedin.com/in/juna-faye-ballesteros-0530a6214/">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/junaballesteros&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 <a href="junafayecb@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=junafayecb@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
